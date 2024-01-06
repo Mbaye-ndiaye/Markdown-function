@@ -30,6 +30,7 @@ const handlDownLoad = () => {
         <div className='col-sm-4 col-lg-3 m-auto'>
         <Card value={value}/>
         </div>
+        
         </div>
        <div className='text-center '>
 
